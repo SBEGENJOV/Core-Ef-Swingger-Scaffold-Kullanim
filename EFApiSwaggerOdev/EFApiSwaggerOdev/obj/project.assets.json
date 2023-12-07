@@ -2491,11 +2491,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Bright_calisma\\Web Api\\ASP Net CORE\\EFApiSwaggerOdev\\EFApiSwaggerOdev\\EFApiSwaggerOdev.csproj",
+      "projectUniqueName": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Core-Ef-Swingger-Scaffold-Kullanim\\EFApiSwaggerOdev\\EFApiSwaggerOdev\\EFApiSwaggerOdev.csproj",
       "projectName": "EFApiSwaggerOdev",
-      "projectPath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Bright_calisma\\Web Api\\ASP Net CORE\\EFApiSwaggerOdev\\EFApiSwaggerOdev\\EFApiSwaggerOdev.csproj",
+      "projectPath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Core-Ef-Swingger-Scaffold-Kullanim\\EFApiSwaggerOdev\\EFApiSwaggerOdev\\EFApiSwaggerOdev.csproj",
       "packagesPath": "C:\\Users\\S_BEGENJOV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Bright_calisma\\Web Api\\ASP Net CORE\\EFApiSwaggerOdev\\EFApiSwaggerOdev\\obj\\",
+      "outputPath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Core-Ef-Swingger-Scaffold-Kullanim\\EFApiSwaggerOdev\\EFApiSwaggerOdev\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",

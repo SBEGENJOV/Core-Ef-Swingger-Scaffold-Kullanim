@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace EFApiSwaggerOdev.Models
 {
-    public partial class MarketlerSwaggerApiDbContext : DbContext
+    public class MarketlerSwaggerApiDbContext : DbContext
     {
         public MarketlerSwaggerApiDbContext()
         {

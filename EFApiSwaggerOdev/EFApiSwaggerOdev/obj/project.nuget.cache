@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+TEsU86nQURRMMLU0/AjQXW9kpJmIJ0MmNWGAzmQX3XcEifeT9IQQ3+yH2F0lAkM5iyyO8x4QMxD0UQ34FghHw==",
+  "dgSpecHash": "zkdfJqMRzLOHJId2d0a8rQbLiZ8Davt/3EthfThWyutVqBpDgXrOujiYqJWm0WS44v1c1uQ9Nrluhk/QZcgeDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Bright_calisma\\Web Api\\ASP Net CORE\\EFApiSwaggerOdev\\EFApiSwaggerOdev\\EFApiSwaggerOdev.csproj",
+  "projectFilePath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Core-Ef-Swingger-Scaffold-Kullanim\\EFApiSwaggerOdev\\EFApiSwaggerOdev\\EFApiSwaggerOdev.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\S_BEGENJOV\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\S_BEGENJOV\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
